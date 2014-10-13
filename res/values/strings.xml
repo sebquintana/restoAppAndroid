@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RestoAppTest</string>
+    <string name="bienvenido">Bienvenido a restoApp!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_send">Ingresar</string>
+    <string name="title_activity_pedir_carta">PedirCartaActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="url_hint">http://localhost:8080/server/</string>
+    <string name="pedir_carta">Pedir Carta</string>
+    <string name="title_activity_carta">CartaActivity</string>
+
+</resources>
